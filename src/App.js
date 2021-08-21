@@ -4,7 +4,7 @@ import Header from './Components/Header';
 function App() {
   return (
     <div className="App">
-     <h1>EJOMAFUVWE ONOAKPOGBOBOR</h1>
+     <h1>EJOMAFUVWE ONOAKPOGBOBORE</h1>
      
            <li>address</li>
            <li>mobile number</li>
